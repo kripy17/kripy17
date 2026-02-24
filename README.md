@@ -1,23 +1,56 @@
-# Hello, I'm Krish Patel
-<a href="https://www.linkedin.com/in/krishlix17/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Krish Patel  
+<a href="https://www.linkedin.com/in/krishlix17/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/SIEMbiotic17">
+  <img src="https://img.shields.io/badge/-GitHub-000000?&style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-I am a cybersecurity graduate with a strong interest in blue team operations, threat detection, and incident response. I enjoy working with logs, alerts, and real-world attack scenarios, and I am actively building hands-on SOC labs to strengthen my defensive security skills.
+---
+
+## About Me
+
+Cybersecurity graduate focused on **Blue Team Operations, Threat Detection, and Incident Response**.
+
+I build hands-on SOC labs to simulate real-world attacks and practice:
+- Alert triage  
+- Log analysis  
+- Threat detection  
+- Incident investigation  
+- SOC automation  
+
+Currently preparing for a **SOC Tier 1 Analyst** role.
+
+---
 
 ## Objective
-To begin my cybersecurity career as a **SOC Tier 1 Analyst**, where I can contribute to monitoring, detecting, and responding to security incidents while continuously improving my skills in threat analysis and incident response.
 
-## Skills
+To begin my cybersecurity career as a **SOC Tier 1 Analyst**, contributing to monitoring, detection, and incident response operations while continuously improving my defensive security skills.
 
-| Skill                                           | Associated Project |
-|------------------------------------------------|--------------------|
-| SIEM Deployment and Log Analysis                | <a href="https://google.com">Detection Lab</a> |
-| Network Traffic Analysis and Attack Detection  | <a href="https://google.com">Detection Lab</a> |
-| Alert Triage and Incident Investigation        | <a href="https://google.com">SOC Automation Lab</a> |
-| Security Automation using Shuffle SOAR         | <a href="https://google.com">SOC Automation Lab</a> |
-| Case Management and Incident Tracking          | <a href="https://google.com">SOC Automation Lab</a> |
-| Scripting for Security Operations (Python)     | <a href="https://google.com">SOC Automation Lab</a> |
+---
 
-## Tools
+## Certifications
+<img src="https://img.shields.io/badge/-CompTIA_Security+-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="YOUR_GOOGLE_CERTIFICATE_LINK">
+  <img src="https://img.shields.io/badge/Google_Cybersecurity-Professional_Certificate-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
+</a>
+
+---
+
+## Core Competencies
+
+| Skill | Associated Project |
+|-------|-------------------|
+| SIEM Deployment & Log Analysis | [Detection Lab](https://github.com/YOUR_GITHUB_USERNAME/detection-lab) |
+| Network Traffic Analysis | [Detection Lab](https://github.com/YOUR_GITHUB_USERNAME/detection-lab) |
+| Alert Triage & Investigation | [SOC Automation Lab](https://github.com/YOUR_GITHUB_USERNAME/soc-automation-lab) |
+| SOC Automation (SOAR) | [SOC Automation Lab](https://github.com/YOUR_GITHUB_USERNAME/soc-automation-lab) |
+| Case Management (TheHive) | [SOC Automation Lab](https://github.com/YOUR_GITHUB_USERNAME/soc-automation-lab) |
+| Python for Security Operations | [SOC Automation Lab](https://github.com/YOUR_GITHUB_USERNAME/soc-automation-lab) |
+
+---
+
+## Tools & Technology
 
 ### Network Security & Monitoring
 <div>
@@ -43,26 +76,70 @@ To begin my cybersecurity career as a **SOC Tier 1 Analyst**, where I can contri
 <div>
   <img src="https://img.shields.io/badge/-Shuffle_SOAR-6A5ACD?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-TheHive-FFB000?&style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" 
 </div>
 
-## Certifications
-<div>
-  <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
-
-## Projects
-
-### Detection Lab
-- Built a home SOC lab to collect and analyze logs from multiple sources  
-- Used SIEM tools to detect brute-force attacks, port scans, and suspicious traffic  
-- Performed alert triage and basic incident investigation  
-
-### SOC Automation Lab
-- Automated alert handling using Shuffle SOAR  
-- Integrated SIEM alerts with TheHive for case creation and tracking  
-- Used Python scripts to enrich alerts and reduce manual SOC workload  
 
 ---
 
-*Actively learning, building labs, and preparing for real-world SOC operations.*
-https://www.linkedin.com/in/krishlix17/
+## Projects
+
+### Detection Lab  
+🔗 https://github.com/YOUR_GITHUB_USERNAME/detection-lab
+
+Built a home SOC lab simulating enterprise monitoring environment.
+
+Highlights:
+- Centralized log collection from endpoints and network sensors  
+- Configured detection rules for brute-force attacks and port scans  
+- Performed alert triage and basic incident investigation  
+- Used SIEM queries for threat hunting  
+- Documented attack simulations with screenshots and analysis  
+
+---
+
+### SOC Automation Lab  
+🔗 https://github.com/YOUR_GITHUB_USERNAME/soc-automation-lab
+
+Automated SOC workflows to reduce manual analyst workload.
+
+Highlights:
+- Integrated SIEM alerts with Shuffle SOAR  
+- Automated case creation in TheHive  
+- Developed Python-based alert enrichment scripts  
+- Created structured incident response documentation  
+
+---
+
+## Lab Documentation Structure
+
+Each lab repository includes:
+
+- Network architecture diagram  
+- VM setup configuration  
+- Attack simulation steps  
+- Detection queries used  
+- Alert screenshots  
+- Investigation notes  
+- Lessons learned  
+
+---
+
+## GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## Currently Working On
+
+- Expanding detection use cases  
+- Building advanced threat hunting scenarios  
+- Improving SOC automation workflows  
+- Practicing real-world attack simulations  
+
+---
+
+**Actively building. Actively learning. Preparing for real-world SOC operations.**
