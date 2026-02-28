@@ -1,150 +1,198 @@
-# Hello, I'm Krish Patel  
-<a href="https://www.linkedin.com/in/krishlix17/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+# Krish Patel  
+
+<a href="https://www.linkedin.com/in/kripy17/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/SIEMbiotic17">
-  <img src="https://img.shields.io/badge/-GitHub-000000?&style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/kripy17">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-## About Me
-
-Cybersecurity graduate focused on **Blue Team Operations, Threat Detection, and Incident Response**.
-
-I build hands-on SOC labs to simulate real-world attacks and practice:
-- Alert triage  
-- Log analysis  
-- Threat detection  
-- Incident investigation  
-- SOC automation  
-
-Currently preparing for a **SOC Tier 1 Analyst** role.
 
 ---
 
-## Objective
+## Professional Summary
 
-To begin my cybersecurity career as a **SOC Tier 1 Analyst**, contributing to monitoring, detection, and incident response operations while continuously improving my defensive security skills.
+Cybersecurity graduate specializing in Security Operations Center (SOC) workflows, threat detection, and incident response.
 
----
+Experienced in building and managing simulated enterprise lab environments to develop practical skills in alert triage, log correlation, threat hunting, detection rule development, and structured incident investigation.
 
-## 🏆 Certifications
+Actively pursuing a SOC Tier 1 Analyst role, with a strong focus on defensive security, blue team operations, and continuous improvement in detection engineering and automation.
 
-<a href="https://www.comptia.org/certifications/security" target="_blank">
-  <img src="https://img.shields.io/badge/-CompTIA_Security+-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</a>
+
+
+## SOC Analyst Certification Stack
+
+<p align="center">
+  <strong>Security Certifications</strong>
+</p>
 
 <br>
 
-<a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank">
-  <img src="https://img.shields.io/badge/Google_Cybersecurity-Professional_Certificate-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
+<table align="center">
+<tr>
+
+<td align="center" width="300">
+
+<a href="YOUR_CREDLY_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-8B0000?style=for-the-badge&logo=comptia&logoColor=white" />
 </a>
+
+<br><br>
+
+<strong>Security Foundations</strong>
 
 <br>
 
-<a href="https://tryhackme.com/p/SIEMbiotic17" target="_blank">
-  <img src="https://img.shields.io/badge/SOC_Level_1-Path_Certificate_(TryHackMe)-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+<sub>
+Network Security • IAM • Cryptography  
+Risk Management • Vulnerability Management  
+Security Controls & Governance
+</sub>
+
+<br><br>
+
+<a href="YOUR_CREDLY_LINK" target="_blank">
+  <sub><strong>Verify Credential →</strong></sub>
 </a>
 
----
+</td>
 
-## Core Competencies
+<td align="center" width="300">
 
-| Skill | Associated Project |
-|-------|-------------------|
-| SIEM Deployment & Log Analysis | [Detection Lab](https://github.com/YOUR_GITHUB_USERNAME/detection-lab) |
-| Network Traffic Analysis | [Detection Lab](https://github.com/YOUR_GITHUB_USERNAME/detection-lab) |
-| Alert Triage & Investigation | [SOC Automation Lab](https://github.com/YOUR_GITHUB_USERNAME/soc-automation-lab) |
-| SOC Automation (SOAR) | [SOC Automation Lab](https://github.com/YOUR_GITHUB_USERNAME/soc-automation-lab) |
-| Case Management (TheHive) | [SOC Automation Lab](https://github.com/YOUR_GITHUB_USERNAME/soc-automation-lab) |
-| Python for Security Operations | [SOC Automation Lab](https://github.com/YOUR_GITHUB_USERNAME/soc-automation-lab) |
+<a href="YOUR_CERT_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/Google-Cybersecurity-0A66C2?style=for-the-badge&logo=google&logoColor=white" />
+</a>
 
----
+<br><br>
 
-## Tools & Technology
+<strong>SOC Operations</strong>
 
-### Network Security & Monitoring
-<div>
-  <div> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" /> <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" /> </div>
-</div>
+<br>
 
-### Endpoint Security & DFIR
-<div>
-  <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
+<sub>
+SIEM Fundamentals • Log Analysis  
+Incident Response • Linux & SQL  
+MITRE ATT&CK • Python Automation
+</sub>
 
-### SIEM & Detection Platforms
-<div>
-<div> <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /> <img src="https://img.shields.io/badge/-Wazuh-0056D2?&style=for-the-badge&logo=wazuh&logoColor=white" />
-</div>
+<br><br>
 
-### SOC & Automation Tools
-<div>
-  <img src="https://img.shields.io/badge/-Shuffle_SOAR-6A5ACD?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TheHive-FFB000?&style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" 
-</div>
+<a href="YOUR_CERT_LINK" target="_blank">
+  <sub><strong>Verify Credential →</strong></sub>
+</a>
 
+</td>
 
----
+<td align="center" width="300">
 
-## Projects
+<a href="YOUR_THM_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201-111111?style=for-the-badge&logo=tryhackme&logoColor=red" />
+</a>
 
-### Detection Lab  
-🔗 https://github.com/YOUR_GITHUB_USERNAME/detection-lab
+<br><br>
 
-Built a home SOC lab simulating enterprise monitoring environment.
+<strong>Threat Detection & Response</strong>
 
-Highlights:
-- Centralized log collection from endpoints and network sensors  
-- Configured detection rules for brute-force attacks and port scans  
-- Performed alert triage and basic incident investigation  
-- Used SIEM queries for threat hunting  
-- Documented attack simulations with screenshots and analysis  
+<br>
 
----
+<sub>
+Threat Hunting • EDR Concepts  
+Windows Event Logs • Splunk Correlation  
+Network Analysis • Alert Escalation
+</sub>
 
-### SOC Automation Lab  
-🔗 https://github.com/YOUR_GITHUB_USERNAME/soc-automation-lab
+<br><br>
 
-Automated SOC workflows to reduce manual analyst workload.
+<a href="YOUR_THM_LINK" target="_blank">
+  <sub><strong>Verify Credential →</strong></sub>
+</a>
 
-Highlights:
-- Integrated SIEM alerts with Shuffle SOAR  
-- Automated case creation in TheHive  
-- Developed Python-based alert enrichment scripts  
-- Created structured incident response documentation  
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <sub>Focused on Tier 1 SOC Operations and Defensive Security</sub>
+</p>
 
 ---
 
-## Lab Documentation Structure
+## Technical Competencies
 
-Each lab repository includes:
+**SIEM & Detection Platforms:** Wazuh, Microsoft Sentinel, Splunk, Elastic (ELK)  
+**Endpoint Monitoring:** Wazuh Agent, Microsoft Defender for Endpoint  
+**Network Monitoring:** Wireshark, Suricata, Zeek  
+**Threat Frameworks:** MITRE ATT&CK, NIST Incident Response Framework  
+**Log Analysis:** Windows Event Logs, Sysmon, Linux Logs  
+**Automation & Scripting:** Python, Bash  
+**Virtualization & Lab Environments:** VMware  
+**Operating Systems:** Ubuntu, Kali Linux, Windows  
 
-- Network architecture diagram  
-- VM setup configuration  
-- Attack simulation steps  
-- Detection queries used  
-- Alert screenshots  
-- Investigation notes  
-- Lessons learned  
+
+---
+
+## SOC Lab Project
+
+### Wazuh-SIEM-SOC-Infrastructure-Deployment
+
+🔗 **Repository:** [Wazuh-SIEM-SOC-Infrastructure-Deployment](https://github.com/kripy17/Wazuh-SIEM-SOC-Infrastructure-Deployment)
+
+Hands-on SOC home lab focused on deploying a Wazuh SIEM environment, collecting endpoint telemetry, and simulating real-world attacks for detection and monitoring practice.
+
+**Technologies Used:**
+Wazuh • Ubuntu • Kali Linux • VMware • MITRE ATT&CK
+
+**Project Overview:**
+
+* Deployed Wazuh SIEM server on Ubuntu
+* Configured Wazuh agents for centralized endpoint log collection
+* Simulated attack activity from Kali Linux to generate security telemetry
+* Monitored and analyzed alerts within the Wazuh dashboard
+* Mapped detected behaviors to MITRE ATT&CK techniques
+* Practiced alert triage and basic incident investigation workflow
+
+---
+
+
+## SOC Investigation Methodology
+
+Structured investigation approach:
+
+1. Validate alert authenticity  
+2. Correlate logs across multiple data sources  
+3. Identify Indicators of Compromise (IOCs)  
+4. Map activity to MITRE ATT&CK techniques  
+5. Assess scope and potential impact  
+6. Recommend containment and remediation  
+7. Document findings clearly and concisely  
 
 ---
 
 ## GitHub Analytics
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kripy17&show_icons=true&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kripy17&layout=compact&theme=tokyonight)
 
 ---
 
 ## Currently Working On
 
-- Expanding detection use cases  
-- Building advanced threat hunting scenarios  
-- Improving SOC automation workflows  
-- Practicing real-world attack simulations  
+- Expanding Wazuh detection use cases  
+- Developing additional detection rules  
+- Practicing advanced threat hunting scenarios  
+- Improving SOC documentation and reporting  
 
 ---
 
-**Actively building. Actively learning. Preparing for real-world SOC operations.**
+## Career Focus
+
+- SOC Tier 1 Analyst  
+- Blue Team Operations  
+- Threat Detection  
+- Detection Engineering  
+
+---
+
+Actively building practical SOC skills and preparing for real-world security operations environments.
