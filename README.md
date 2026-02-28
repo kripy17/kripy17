@@ -22,7 +22,7 @@ Actively pursuing a SOC Tier 1 Analyst role, with a strong focus on defensive se
 ## SOC Analyst Certification Stack
 
 <p align="center">
-  <strong>Security Certifications</strong>
+  <strong>🔐 Security Certifications</strong>
 </p>
 
 <br>
@@ -32,8 +32,8 @@ Actively pursuing a SOC Tier 1 Analyst role, with a strong focus on defensive se
 
 <td align="center" width="300">
 
-<a href="YOUR_CREDLY_LINK" target="_blank">
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B-8B0000?style=for-the-badge&logo=comptia&logoColor=white" />
+<a href="https://www.credly.com/YOUR_SECURITY_PLUS_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-8B0000?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+ Badge"/>
 </a>
 
 <br><br>
@@ -43,14 +43,14 @@ Actively pursuing a SOC Tier 1 Analyst role, with a strong focus on defensive se
 <br>
 
 <sub>
-Network Security • IAM • Cryptography  
-Risk Management • Vulnerability Management  
+Network Security • IAM • Cryptography<br>
+Risk Management • Vulnerability Management<br>
 Security Controls & Governance
 </sub>
 
 <br><br>
 
-<a href="YOUR_CREDLY_LINK" target="_blank">
+<a href="https://www.credly.com/YOUR_SECURITY_PLUS_LINK" target="_blank">
   <sub><strong>Verify Credential →</strong></sub>
 </a>
 
@@ -58,8 +58,8 @@ Security Controls & Governance
 
 <td align="center" width="300">
 
-<a href="YOUR_CERT_LINK" target="_blank">
-  <img src="https://img.shields.io/badge/Google-Cybersecurity-0A66C2?style=for-the-badge&logo=google&logoColor=white" />
+<a href="https://coursera.org/YOUR_GOOGLE_CERT_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/Google-Cybersecurity-0A66C2?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Certificate Badge"/>
 </a>
 
 <br><br>
@@ -69,14 +69,14 @@ Security Controls & Governance
 <br>
 
 <sub>
-SIEM Fundamentals • Log Analysis  
-Incident Response • Linux & SQL  
+SIEM Fundamentals • Log Analysis<br>
+Incident Response • Linux & SQL<br>
 MITRE ATT&CK • Python Automation
 </sub>
 
 <br><br>
 
-<a href="YOUR_CERT_LINK" target="_blank">
+<a href="https://coursera.org/YOUR_GOOGLE_CERT_LINK" target="_blank">
   <sub><strong>Verify Credential →</strong></sub>
 </a>
 
@@ -84,8 +84,8 @@ MITRE ATT&CK • Python Automation
 
 <td align="center" width="300">
 
-<a href="YOUR_THM_LINK" target="_blank">
-  <img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201-111111?style=for-the-badge&logo=tryhackme&logoColor=red" />
+<a href="https://tryhackme.com/YOUR_THM_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201-111111?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe SOC Level 1 Badge"/>
 </a>
 
 <br><br>
@@ -95,14 +95,14 @@ MITRE ATT&CK • Python Automation
 <br>
 
 <sub>
-Threat Hunting • EDR Concepts  
-Windows Event Logs • Splunk Correlation  
+Threat Hunting • EDR Concepts<br>
+Windows Event Logs • Splunk Correlation<br>
 Network Analysis • Alert Escalation
 </sub>
 
 <br><br>
 
-<a href="YOUR_THM_LINK" target="_blank">
+<a href="https://tryhackme.com/YOUR_THM_LINK" target="_blank">
   <sub><strong>Verify Credential →</strong></sub>
 </a>
 
@@ -114,9 +114,8 @@ Network Analysis • Alert Escalation
 <br>
 
 <p align="center">
-  <sub>Focused on Tier 1 SOC Operations and Defensive Security</sub>
+  <sub><strong>Focused on Tier 1 SOC Operations & Defensive Security</strong></sub>
 </p>
-
 ---
 
 ## Technical Competencies
