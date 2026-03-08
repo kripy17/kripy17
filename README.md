@@ -41,6 +41,22 @@ status      : Actively seeking SOC opportunities · Open to connect
 
 ---
 
+## 🎯 Career Goal
+
+<p align="center">
+  <strong>Breaking into a SOC team — where every shift is a new mystery and every alert is a puzzle worth solving.</strong><br><br>
+  <sub>Looking to contribute to a blue team that takes detection engineering seriously<br>and values analysts who ask <em>"why"</em> before closing a ticket.</sub>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Target_Role-SOC_Tier_1_Analyst-8B0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Team-Blue_Team_Operations-1a1a2e?style=for-the-badge" />
+</p>
+
+---
+
 ## 📜 Certifications
 
 > *"Certified to detect what others miss — and humble enough to keep learning."*
@@ -132,33 +148,28 @@ status      : Actively seeking SOC opportunities · Open to connect
 </table>
 
 <br>
-</p>
 
 ---
+
 ## 📁 Featured Project
 
 <table>
 <tr>
 <td>
 
-### [Wazuh SOC Lab — Phase 1: SIEM Infrastructure & Endpoint Monitoring](https://github.com/kripy17/Wazuh-SOC-Lab-Phase1)
+### [🛡️ SOC Home Lab — End-to-End Security Operations Center](https://github.com/kripy17/SOC-Home-Lab)
 
 > *"Built a SOC lab so realistic, even my home network started filing incident reports."*
 
-Deployed a fully operational Wazuh SIEM in an isolated VMware environment — covering infrastructure setup, Linux endpoint onboarding, log pipeline validation, and detection confirmation through controlled simulations. Not a tutorial follow-along. An actual built environment.
+A multi-phase, self-directed blue-team lab simulating a real SOC environment — from SIEM infrastructure deployment to Windows endpoint monitoring to live attack simulation and incident investigation. Built entirely on consumer hardware (i3, 8GB RAM) with deliberate engineering tradeoffs documented throughout.
 
-**Stack:** `Wazuh` `Ubuntu 22.04` `Kali Linux` `VMware` `UFW`
+**Stack:** `Wazuh` `Ubuntu 22.04` `Kali Linux` `Windows 10` `Sysmon` `VMware` `UFW`
 
-| Milestone | Status |
-|-----------|--------|
-| Wazuh SIEM server deployed on Ubuntu | ✅ Complete |
-| NAT network configured & validated | ✅ Complete |
-| Kali Linux endpoint onboarded via Wazuh Agent | ✅ Complete |
-| Log ingestion & pipeline validation | ✅ Complete |
-| File Integrity Monitoring (FIM) confirmed | ✅ Complete |
-| Auth abuse & privilege escalation detection | ✅ Complete |
-| Windows VM + Sysmon integration | 🔄 Phase 2 |
-| Network IDS with Suricata | 📋 Phase 3 |
+| Phase | Focus | Status |
+|-------|-------|--------|
+| Phase 1 — SIEM Infrastructure | Wazuh deployment · Kali onboarding · Log pipeline · FIM · Attack simulation | ✅ Complete |
+| Phase 2 — Windows + Sysmon | Windows agent · SwiftOnSecurity config · Process telemetry · Wazuh integration | ✅ Complete |
+| Phase 3 — Attack Simulation | Brute force · PowerShell abuse · Persistence · Privilege escalation · Incident reports | 🔧 In Progress |
 
 </td>
 </tr>
@@ -208,7 +219,7 @@ Deployed a fully operational Wazuh SIEM in an isolated VMware environment — co
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
-### ⚙️ Virtualization
+### ⚙️ Virtualisation
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 
@@ -251,19 +262,14 @@ Deployed a fully operational Wazuh SIEM in an isolated VMware environment — co
 
 | Area | Priority | Status |
 |------|----------|--------|
+| SOC Home Lab — Phase 3 Attack Simulation | ⬛ High | `In Progress` |
 | Custom Wazuh detection rules | ⬛ High | `In Progress` |
-| Advanced threat hunting scenarios | 🔲 Medium | `In Progress` |
-| Incident report documentation templates | 🔲 Medium | `In Progress` |
-| Network Traffic Analysis Lab *(new project)* | 🔳 Planned | `Scoping` |
-| Next certification | 🔳 Planned | `Researching` |
+| CompTIA CySA+ preparation | 🔲 Medium | `Studying` |
+| Incident report documentation — Phase 3 | 🔲 Medium | `In Progress` |
 
 ---
 
 ## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kripy17&theme=github_dark" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kripy17&theme=github_dark" height="165"/>
-</p> 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kripy17&theme=dark&background=0d1117&ring=8B0000&fire=FF4444&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa&border=333333" />
@@ -271,22 +277,6 @@ Deployed a fully operational Wazuh SIEM in an isolated VMware environment — co
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kripy17&bg_color=0d1117&color=ffffff&line=8B0000&point=ff4444&area=true&hide_border=false" />
-</p>
-
----
-
-## 🎯 Career Goal
-
-<p align="center">
-  <strong>Breaking into a SOC team — where every shift is a new mystery and every alert is a puzzle worth solving.</strong><br><br>
-  <sub>Looking to contribute to a blue team that takes detection engineering seriously<br>and values analysts who ask <em>"why"</em> before closing a ticket.</sub>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Target_Role-SOC_Tier_1_Analyst-8B0000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Team-Blue_Team_Operations-1a1a2e?style=for-the-badge" />
 </p>
 
 ---
