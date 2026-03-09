@@ -271,15 +271,18 @@ A multi-phase, self-directed blue-team lab simulating a real SOC environment —
 
 ## 📊 GitHub Activity
 
+> *"Every green square is a late night well spent."*
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sockr17&theme=dark&background=0d1117&ring=8B0000&fire=FF4444&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa&border=333333" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sockr17&bg_color=0d1117&color=8B0000&line=8B0000&point=ffffff&area=true&area_color=8B0000&hide_border=true" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sockr17" />
-    <img src="https://raw.githubusercontent.com/sockr17/sockr17/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img src="https://github.com/sockr17/sockr17/raw/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <sub>// threat actor detected in the contribution graph — currently being consumed</sub>
 </p>
 
 ---
