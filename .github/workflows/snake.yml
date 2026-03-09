@@ -8,13 +8,15 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: Platane/snk@v3
         with:
           github_user_name: sockr17
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=8B0000&color_dots[0]=1a1a2e&color_dots[1]=3a0000&color_dots[2]=6b0000&color_dots[3]=8B0000&color_dots[4]=ff4444
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=8B0000
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
