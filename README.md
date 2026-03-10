@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=680&lines=Wazuh+the+one+who+triggered+that+alert%3F+Me.;sudo+get-hired+--+permission+granted;grep+-i+%27threat%27+%2Fvar%2Flog%2Flife.log+%E2%80%94+results+found;Alert+severity%3A+HIGH.+My+patience+with+FPs%3A+LOW;Sleep+schedule+flagged+as+suspicious+%E2%80%94+investigating" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=680&lines=Wazuh+the+one+who+triggered+that+alert%3F+Me.;sudo+get-hired+--+permission+granted;5+attacks+simulated.+5+incidents+documented.+0+ignored.;Alert+severity%3A+HIGH.+My+patience+with+FPs%3A+LOW;Sleep+schedule+flagged+as+suspicious+%E2%80%94+still+investigating" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kripy17/">
+  <a href="https://www.linkedin.com/in/sockr17/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/sockr17">
@@ -157,7 +157,7 @@ status      : Actively seeking SOC opportunities · Open to connect
 <tr>
 <td>
 
-### [🛡️ SOC Home Lab — End-to-End Security Operations Center](https://github.com/kripy17/SOC-Home-Lab)
+### [🛡️ SOC Home Lab — End-to-End Security Operations Center](https://github.com/sockr17/SOC-Home-Lab)
 
 > *"Built a SOC lab so realistic, even my home network started filing incident reports."*
 
@@ -169,7 +169,7 @@ A multi-phase, self-directed blue-team lab simulating a real SOC environment —
 |-------|-------|--------|
 | Phase 1 — SIEM Infrastructure | Wazuh deployment · Kali onboarding · Log pipeline · FIM · Attack simulation | ✅ Complete |
 | Phase 2 — Windows + Sysmon | Windows agent · SwiftOnSecurity config · Process telemetry · Wazuh integration | ✅ Complete |
-| Phase 3 — Attack Simulation | Brute force · PowerShell abuse · Persistence · Privilege escalation · Incident reports | 🔧 In Progress |
+| Phase 3 — Attack Simulation | Brute force · PowerShell abuse · Persistence · Privilege escalation · Incident reports | ✅ Complete |
 
 </td>
 </tr>
@@ -264,11 +264,10 @@ A multi-phase, self-directed blue-team lab simulating a real SOC environment —
 |------|----------|--------|
 | SOC Home Lab — Phase 3 Attack Simulation | ⬛ High | `In Progress` |
 | Custom Wazuh detection rules | ⬛ High | `In Progress` |
-| CompTIA Security + preparation | 🔲 Medium | `Studying` |
+| CompTIA CySA+ preparation | 🔲 Medium | `Studying` |
 | Incident report documentation — Phase 3 | 🔲 Medium | `In Progress` |
 
 ---
-
 ## 📊 GitHub Activity
 
 > *"Every green square is a late night well spent."*
