@@ -73,7 +73,7 @@ status      : Actively seeking SOC opportunities · Open to connect
 
 <br><br>
 
-**CompTIA Security+**  
+**CompTIA Security+ (In Progress)**  
 `SY0-701`
 
 <br>
