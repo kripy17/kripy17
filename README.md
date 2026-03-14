@@ -63,18 +63,20 @@ status      : Actively seeking SOC opportunities · Open to connect
 
 <br>
 
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
 
 <!-- CompTIA Security+ -->
-<td align="center" width="220" valign="top" style="padding: 20px;">
+<td align="center" width="280" style="background-color:#0d1117; border: 1px solid #8B0000; border-radius: 10px; padding: 24px;">
 
 <img src="https://img.shields.io/badge/CompTIA-Security%2B-8B0000?style=for-the-badge&logo=comptia&logoColor=white"/>
 
 <br><br>
 
-**CompTIA Security+ (In Progress)**  
-`SY0-701`
+**CompTIA Security+**<br>
+`SY0-701` &nbsp;·&nbsp; `In Progress`
 
 <br>
 
@@ -86,49 +88,69 @@ status      : Actively seeking SOC opportunities · Open to connect
 
 <br><br>
 
-[![Verify](https://img.shields.io/badge/Verify_on_Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/YOUR_SECURITY_PLUS_LINK)
+[![Credly](https://img.shields.io/badge/Credly-Available_on_Completion-FF6B00?style=flat-square&logo=credly&logoColor=white)](#)
 
 </td>
 
-<!-- Divider -->
-<td width="30"></td>
+<td width="24"></td>
 
 <!-- Google Cybersecurity -->
-<td align="center" width="220" valign="top" style="padding: 20px;">
+<td align="center" width="280" style="background-color:#0d1117; border: 1px solid #8B0000; border-radius: 10px; padding: 24px;">
 
 <img src="https://img.shields.io/badge/Google-Cybersecurity_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
 <br><br>
 
-**Google Cybersecurity**  
-`Professional Certificate`
+**Google Cybersecurity**<br>
+`Professional Certificate` &nbsp;·&nbsp; `Completed`
 
 <br>
 
-![](https://img.shields.io/badge/SIEM_Fundamentals-555?style=flat-square)
-![](https://img.shields.io/badge/Linux_CLI-555?style=flat-square)
-![](https://img.shields.io/badge/SQL_Log_Queries-555?style=flat-square)
-![](https://img.shields.io/badge/Incident_Response-555?style=flat-square)
-![](https://img.shields.io/badge/Risk_Assessment-555?style=flat-square)
+<img src="https://images.credly.com/size/680x680/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob" width="100" />
 
 <br><br>
 
-[![View](https://img.shields.io/badge/View_on_Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://coursera.org/share/dcb5d9cf212ae16c71684c5023813a3e)
+[![Credly](https://img.shields.io/badge/Verify_on_Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/badges/5fc52775-44d0-4d70-bd1a-972e97bc8bda/)
 
 </td>
 
-<!-- Divider -->
-<td width="30"></td>
+<td width="24"></td>
+
+<!-- Google IT Support -->
+<td align="center" width="280" style="background-color:#0d1117; border: 1px solid #8B0000; border-radius: 10px; padding: 24px;">
+
+<img src="https://img.shields.io/badge/Google-IT_Support_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<br><br>
+
+**Google IT Support**<br>
+`Professional Certificate` &nbsp;·&nbsp; `Completed`
+
+<br>
+
+![](https://img.shields.io/badge/Networking-555?style=flat-square)
+![](https://img.shields.io/badge/Linux_Admin-555?style=flat-square)
+![](https://img.shields.io/badge/System_Admin-555?style=flat-square)
+![](https://img.shields.io/badge/Troubleshooting-555?style=flat-square)
+![](https://img.shields.io/badge/Security_Basics-555?style=flat-square)
+
+<br><br>
+
+[![Coursera](https://img.shields.io/badge/View_on_Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/6HNPDKTJ01BQ)
+
+</td>
+
+<td width="24"></td>
 
 <!-- TryHackMe -->
-<td align="center" width="220" valign="top" style="padding: 20px;">
+<td align="center" width="280" style="background-color:#0d1117; border: 1px solid #8B0000; border-radius: 10px; padding: 24px;">
 
 <img src="https://img.shields.io/badge/TryHackMe-SOC_Level_1-111111?style=for-the-badge&logo=tryhackme&logoColor=red"/>
 
 <br><br>
 
-**TryHackMe**  
-`SOC Level 1 Path`
+**TryHackMe**<br>
+`SOC Level 1 Path` &nbsp;·&nbsp; `In Progress`
 
 <br>
 
@@ -147,8 +169,9 @@ status      : Actively seeking SOC opportunities · Open to connect
 </tr>
 </table>
 
-<br>
+</div>
 
+<br>
 ---
 
 ## 📁 Featured Project
