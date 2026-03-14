@@ -165,11 +165,11 @@ A multi-phase, self-directed blue-team lab simulating a real SOC environment —
 
 **Stack:** `Wazuh` `Ubuntu 22.04` `Kali Linux` `Windows 10` `Sysmon` `VMware` `UFW`
 
-| Phase | Focus | Status |
-|-------|-------|--------|
-| Phase 1 — SIEM Infrastructure | Wazuh deployment · Kali onboarding · Log pipeline · FIM · Attack simulation | ✅ Complete |
-| Phase 2 — Windows + Sysmon | Windows agent · SwiftOnSecurity config · Process telemetry · Wazuh integration | ✅ Complete |
-| Phase 3 — Attack Simulation | Brute force · PowerShell abuse · Persistence · Privilege escalation · Incident reports | ✅ Complete |
+| Phase | Focus 
+|-------|-------|
+| Phase 1 — SIEM Infrastructure | Wazuh deployment · Kali onboarding · Log pipeline · FIM · Attack simulation |
+| Phase 2 — Windows + Sysmon | Windows agent · SwiftOnSecurity config · Process telemetry · Wazuh integration |
+| Phase 3 — Attack Simulation | Brute force · PowerShell abuse · Persistence · Privilege escalation · Incident reports |
 
 </td>
 </tr>
