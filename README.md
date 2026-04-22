@@ -286,11 +286,7 @@ A multi-phase, self-directed blue-team lab simulating a real SOC environment —
 > *"Every green square is a late night well spent."*
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sockr17&bg_color=0d1117&color=8B0000&line=8B0000&point=ffffff&area=true&area_color=8B0000&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/sockr17/sockr17/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kripy17&bg_color=0d1117&color=8B0000&line=8B0000&point=ffffff&area=true&area_color=8B0000&hide_border=true" />
 </p>
 
 <p align="center">
