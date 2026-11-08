@@ -1,18 +1,12 @@
 <div align="center">
 
-<!-- Animated Living Identity Banner -->
-
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=750&height=60&lines=Hi!+I'm+Krish+Patel+%F0%9F%91%8B;SOC+Analyst+%7C+Blue+Team+%7C+Threat+Detection;5+attacks+simulated.+5+incidents+documented.;If+it+logs%2C+I'll+analyze+it." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=750&height=60&lines=Hi!+I'm+Krish+Patel+%F0%9F%91%8B;SOC+Analyst+%7C+Blue+Team+%7C+Threat+Detection;Detection+engineering+%C2%B7+Incident+response" alt="Typing SVG" />
 </a>
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=kripy17&label=PLAYER+VIEWS&color=00FF41&style=for-the-badge&labelColor=0D1117" alt="views"/>
-<img src="https://img.shields.io/github/followers/kripy17?label=ALLIES&style=for-the-badge&color=00F0FF&labelColor=0D1117&logo=github" alt="followers"/>
-<img src="https://img.shields.io/github/stars/kripy17?label=LOOT&style=for-the-badge&color=FF00E5&labelColor=0D1117&logo=github" alt="stars"/>
 
 </div>
 
@@ -39,117 +33,111 @@
   location    : India 🇮🇳
   role        : Cybersecurity Undergraduate → Aspiring SOC Analyst
   focus       : Threat Detection · Incident Response · Detection Engineering
-  tools       : Wazuh · Splunk · Microsoft Sentinel · Suricata · Sysmon
+  hands-on    : Wazuh · Sysmon · Sigma
+  in projects : Suricata · Nmap (BeyondLabs)
+  learning    : Splunk · Microsoft Sentinel
   frameworks  : MITRE ATT&CK · NIST IR
   status      : 🟢 Actively seeking SOC opportunities
+
+  motto       : "If it logs, I'll analyze it.
+                 If it threatens, I'll detect it.
+                 If it breaches — that's what playbooks are for."
+                 (Spoiler: it won't breach. Probably.)
 ```
 
-## ⚔️ `> cat inventory.txt` — Skill Tree
+---
+
+## 🏅 `> cat certifications.log`
+
+> *"Certified to detect what others miss, and humble enough to keep learning."*
 
 <div align="center">
 
-**🖥️ SIEM & Detection**
+<table>
+<tr>
+<td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" />
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white" />
-<img src="https://img.shields.io/badge/Sigma_Rules-00A99D?style=for-the-badge&logoColor=white" />
+**🛡️ Google Cybersecurity**<br/>
+`Professional Certificate`
 
-**🌐 Network Monitoring**
+<img src="https://img.shields.io/badge/STATUS-COMPLETED-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF41" /><br/>
 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Zeek-777BB4?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-4A90D9?style=for-the-badge&logoColor=white" />
+<a href="https://www.credly.com/badges/5fc52775-44d0-4d70-bd1a-972e97bc8bda/"><img src="https://img.shields.io/badge/Credly-View_Badge-0D1117?style=flat-square&labelColor=0D1117&color=FFA116" /></a>
 
-**🔎 Endpoint & Log Analysis**
+</td>
+<td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows_Event_Logs-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux_Logs-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+**💻 Google IT Support**<br/>
+`Professional Certificate`
 
-**🧠 Frameworks & Standards**
+<img src="https://img.shields.io/badge/STATUS-COMPLETED-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF41" /><br/>
 
-<img src="https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/NIST_IR_Framework-003087?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Cyber_Kill_Chain-333333?style=for-the-badge&logoColor=white" />
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/6HNPDKTJ01BQ"><img src="https://img.shields.io/badge/Coursera-View_Cert-0D1117?style=flat-square&labelColor=0D1117&color=0056D2" /></a>
 
-**💻 Languages & Tooling**
+</td>
+<td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=py,bash,ts,react,fastapi,vite,powershell&theme=dark" />
+**🔐 CompTIA Security+**<br/>
+`SY0-701`
 
-**⚙️ OS, Virtualisation & DevOps**
+<img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-0D1117?style=for-the-badge&labelColor=0D1117&color=00F0FF" /><br/>
 
-<img src="https://skillicons.dev/icons?i=arch,linux,ubuntu,windows,git,github&theme=dark" />
+<img src="https://img.shields.io/badge/Exam-Studying-0D1117?style=flat-square&labelColor=0D1117&color=C9D1D9" />
 
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+</td>
+<td align="center" width="25%">
+
+**🎯 TryHackMe**<br/>
+`SOC Level 1 Path`
+
+<img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-0D1117?style=for-the-badge&labelColor=0D1117&color=00F0FF" /><br/>
+
+<a href="https://tryhackme.com/p/kri.py17"><img src="https://img.shields.io/badge/TryHackMe-Profile-0D1117?style=flat-square&labelColor=0D1117&color=FF00E5" /></a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 `> ./stats --player=kripy17`
+## 🏗️ `> ls ~/projects` — Featured Work
 
-<div align="center">
+### 🛡️ [SOC Home Lab: End-to-End Security Operations Center](https://github.com/kripy17/SOC-Home-Lab)
 
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kripy17&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00FF41&ring_color=FF00E5&include_all_commits=true&count_private=true&custom_title=%F0%9F%8E%AE%20PLAYER%20STATS" />
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kripy17&layout=compact&hide_border=false&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=00F0FF&langs_count=8&custom_title=%E2%9A%94%EF%B8%8F%20WEAPON%20MASTERY" />
+> *"Built a SOC lab so realistic, even my home network started filing incident reports."*
 
-<img src="https://streak-stats.demolab.com?user=kripy17&theme=dark&background=0D1117&border=00FF41&ring=FF00E5&fire=FF00E5&currStreakNum=00FF41&sideNums=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&stroke=00FF41" />
+A multi-phase, self-directed blue-team lab covering SIEM deployment, Windows endpoint monitoring, live attack simulation and structured incident investigation, built on consumer hardware with every engineering tradeoff documented.
 
-</div>
+**📄 Proof of work:** [5 written incident reports and full lab documentation](https://github.com/kripy17/SOC-Home-Lab) <!-- TODO: point this at the exact incident-reports folder or one sample report -->
 
----
-
-## 🏆 `> unlock --achievements`
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=kripy17&theme=matrix&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
-
-</div>
-
----
-
-## 🏙️ `> ./render_skyline.sh --3d`
-
-<div align="center">
-
-<!-- Generated by .github/workflows/profile-3d.yml; shows up after the workflow has run once -->
-<img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution calendar" width="100%" />
-
-</div>
-
----
-
-## 🎯 `> cat current_quests.log`
-
-```diff
-+ [ACTIVE]    📚 Studying: CompTIA Security+ (SY0-701)
-+ [ACTIVE]    🔬 Building: BeyondLabs, local-first SOC workbench
-+ [ACTIVE]    🎯 Practicing: TryHackMe SOC Level 1 Path
-+ [ACTIVE]    📖 Reading: MITRE ATT&CK technique docs (yes, for fun)
-! [PENDING]   🛡️ Goal: Detection engineering with real-world telemetry
-- [LOCKED]    👑 Boss Fight: Land my first SOC Analyst role
-```
-
-<div align="center">
-
-| 🕹️ Stat | ▰▰▰▰▰▰▰▰▰▰ | Count |
+| Phase | Focus Area | Status |
 |:--|:--|:--|
-| 🧪 Attacks Simulated | `██████████` | **5** |
-| 🚨 Alerts Generated | `██████████` | **68** |
-| 📄 Incidents Documented | `██████████` | **5** |
-| 🗺️ MITRE Techniques Mapped | `██████████` | **8** |
-| 🧰 Workspaces Built | `██████████` | **16** |
-| ☕ Caffeine | `██████████` | **MAX** |
+| Phase 1: SIEM Infrastructure | Wazuh deployment · Kali onboarding · Log pipeline · FIM · Attack simulation | ✅ Complete |
+| Phase 2: Windows + Sysmon | Windows agent · SwiftOnSecurity config · Process telemetry · Wazuh integration | ✅ Complete |
+| Phase 3: Attack Simulation | Brute force · PowerShell abuse · Persistence · Privilege escalation · 5 incident reports | ✅ Complete |
 
-<sub>Sourced from <a href="https://github.com/kripy17/SOC-Home-Lab">SOC Home Lab</a> and <a href="https://github.com/kripy17/BeyondLabs">BeyondLabs</a>. Not aspirational, just counted.</sub>
+`Wazuh · Ubuntu 22.04 · Kali Linux · Windows 10 · Sysmon · VMware · UFW`
 
-</div>
+<a href="https://github.com/kripy17/SOC-Home-Lab"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kripy17&repo=SOC-Home-Lab&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00FF41" alt="SOC Home Lab repo card" /></a>
+
+### 🔬 [BeyondLabs: Local-First SOC Workbench](https://github.com/kripy17/BeyondLabs)
+
+> *"A workbench where every tool is honest, every result is evidence-backed, and nothing is faked."*
+
+A local-first workbench for defensive analysts: artifact intake, phishing triage, SIEM log review and detection engineering in one app, all on your own machine. Strict no-fake-output philosophy: if a dependency is missing, you're told, not deceived.
+
+| Category | Workspaces |
+|:--|:--|
+| 🔍 Triage & Analysis | Artifact Intake · Phishing Triage · Safe URL Analysis · Attachment Triage |
+| 🚨 SIEM, Detection & Alerts | SIEM Workspace · Logs & Alerts · Detection Engineering · MITRE ATT&CK · IDS Alerts |
+| 🛠️ Recon & Toolkit | Recon & OSINT · Nmap Runner · Hacking Toolkit · CyberChef |
+| 📄 Reference & Reporting | SOC Guide · Case & Report |
+
+`React · Vite · TypeScript · FastAPI · Python · Linux / macOS / Windows`
+
+<a href="https://github.com/kripy17/BeyondLabs"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kripy17&repo=BeyondLabs&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00FF41" alt="BeyondLabs repo card" /></a>
 
 ---
 
@@ -177,57 +165,10 @@ flowchart LR
 
 ---
 
-## 📡 `> ping --connect`
-
-<div align="center">
-
-<a href="https://github.com/kripy17"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&color=00F0FF" /></a>
-<a href="https://www.linkedin.com/in/kripy17/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=0A66C2" /></a>
-<a href="https://tryhackme.com/p/kri.py17"><img src="https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=00FF41&color=00FF41" /></a>
-
-<br/><br/>
-
-```bash
-┌──(kripy17㉿blue-team)-[~/]
-└─$ logout
-
-  session       : terminated
-  status        : 🟢 open to SOC Analyst opportunities
-  fp_rate       : very low (I promise)
-
-$ echo "all threats investigated · no logs left unread · coffee consumed."
-$ exit 0   # GAME OVER? Nah. INSERT COIN TO CONTINUE 🪙
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer&text=INSERT%20COIN%20TO%20CONTINUE&fontSize=26&fontColor=00FF41&animation=twinkling&fontAlignY=68" width="100%"/>
-
-</div>
-
-<p align="center"><sub>KRISH PATEL · kripy17</sub></p>
-
-## Certifications
-
-- **CompTIA Security+ (SY0-701)** · In progress
-- **Google Cybersecurity Professional Certificate** · Completed · [Credly badge](https://www.credly.com/badges/5fc52775-44d0-4d70-bd1a-972e97bc8bda/)
-- **Google IT Support Professional Certificate** · Completed · [Coursera](https://www.coursera.org/account/accomplishments/professional-cert/6HNPDKTJ01BQ)
-- **TryHackMe SOC Level 1 Path** · In progress · [Profile](https://tryhackme.com/p/kri.py17)
-
-## Projects
-
-**[SOC Home Lab, End-to-End Security Operations Center](https://github.com/kripy17/SOC-Home-Lab)**
-- Multi-phase, self-directed blue-team lab: SIEM infrastructure, Windows endpoint monitoring, live attack simulation and structured incident investigation, built on consumer hardware with every tradeoff documented.
-- Phase 1: Wazuh deployment, Kali onboarding, log pipeline, FIM, attack simulation.
-- Phase 2: Windows agent, SwiftOnSecurity Sysmon config, process telemetry, Wazuh integration.
-- Phase 3: brute force, PowerShell abuse, persistence, privilege escalation, 5 incident reports.
-- Stack: Wazuh · Ubuntu 22.04 · Kali Linux · Windows 10 · Sysmon · VMware · UFW
-
-**[BeyondLabs, Local-First SOC Workbench](https://github.com/kripy17/BeyondLabs)**
-- Local-first workbench for defensive analysts: artifact intake, phishing triage, SIEM log review and detection engineering in one app. Strict no-fake-output philosophy: if a dependency is missing, you're told, not deceived.
-- Workspaces: Artifact Intake · Phishing Triage · Safe URL Analysis · Attachment Triage · SIEM Workspace · Logs & Alerts · Detection Engineering · MITRE ATT&CK · IDS Alerts · Recon & OSINT · Nmap Runner · Hacking Toolkit · CyberChef · SOC Guide · Case & Report
-- Stack: React · Vite · TypeScript · FastAPI · Python · Linux / macOS / Windows
+## 🧬 `> cat detections/rundll32.yml`
 
 <details>
-<summary><b>Detection engineering sample</b>: suspicious rundll32 execution (T1218.011)</summary>
+<summary><b>Sigma sample:</b> suspicious rundll32 execution (T1218.011)</summary>
 
 ```yaml
 title: Suspicious Rundll32 Execution via Non-Standard Export
@@ -261,7 +202,7 @@ level: medium
 </details>
 
 <details>
-<summary><b>SOC investigation workflow</b>: how I approach an alert</summary>
+<summary><b>SOC investigation workflow:</b> how I approach an alert</summary>
 
 <br>
 
@@ -279,6 +220,135 @@ level: medium
 
 </details>
 
-## Education
+---
+
+## ⚔️ `> cat inventory.txt` — Skill Tree
+
+<div align="center">
+
+**🖥️ Detection & Endpoint (hands-on)**
+
+<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" />
+<img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Sigma_Rules-00A99D?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows_Event_Logs-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux_Logs-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+**🔧 Used in projects (BeyondLabs)**
+
+<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-4A90D9?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/CyberChef-0D1117?style=for-the-badge&labelColor=0D1117&color=C9D1D9" />
+
+**🧠 Frameworks**
+
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/NIST_IR_Framework-003087?style=for-the-badge&logoColor=white" />
+
+**💻 Languages & Tooling**
+
+<img src="https://skillicons.dev/icons?i=py,bash,ts,react,fastapi,vite&theme=dark" />
+
+**⚙️ OS, Virtualisation & Dev**
+
+<img src="https://skillicons.dev/icons?i=arch,linux,ubuntu,windows,git,github&theme=dark" />
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+
+**📚 Learning**
+
+<img src="https://img.shields.io/badge/Splunk-learning-000000?style=flat-square&logo=splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Sentinel-learning-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-learning-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+
+</div>
+
+---
+
+## 📊 `> ./evidence --counted`
+
+<div align="center">
+
+| Evidence | Count |
+|:--|:--:|
+| 📄 Incidents documented | **5** |
+| 🗺️ MITRE techniques mapped | **8** |
+| 🧪 Attacks simulated | **5** |
+| 🧰 Workspaces built (BeyondLabs) | **16** |
+| 🚨 Alerts generated in lab | **68** |
+
+<sub>Sourced from <a href="https://github.com/kripy17/SOC-Home-Lab">SOC Home Lab</a> and <a href="https://github.com/kripy17/BeyondLabs">BeyondLabs</a>. Not aspirational, just counted.</sub>
+
+</div>
+
+---
+
+## 🎯 `> cat current_quests.log`
+
+```diff
++ [ACTIVE]    📚 Studying: CompTIA Security+ (SY0-701)
++ [ACTIVE]    🔬 Building: BeyondLabs, local-first SOC workbench
++ [ACTIVE]    🎯 Practicing: TryHackMe SOC Level 1 Path
++ [ACTIVE]    📖 Reading: MITRE ATT&CK technique docs (yes, for fun)
+- [LOCKED]    👑 Boss Fight: Land my first SOC Analyst role
+```
+
+---
+
+## 🏙️ `> ./render_skyline.sh --3d`
+
+<div align="center">
+
+<!-- Generated by .github/workflows/profile-3d.yml; shows up after the workflow has run once -->
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution calendar" width="100%" />
+
+<br/>
+
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kripy17&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00FF41&ring_color=FF00E5&include_all_commits=true&count_private=true&custom_title=%F0%9F%8E%AE%20PLAYER%20STATS" />
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kripy17&layout=compact&hide_border=false&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=00F0FF&langs_count=8&custom_title=%E2%9A%94%EF%B8%8F%20WEAPON%20MASTERY" />
+
+</div>
+
+---
+
+## 🎓 Education
 
 - B.Sc. Computer Science (Cybersecurity), MIT World Peace University, Pune
+
+---
+
+## 📡 `> ping --connect`
+
+<div align="center">
+
+<i>Always happy to talk SOC, blue team, or detection engineering.<br/>If you've got an interesting alert to investigate, my DMs are open.</i>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/kripy17/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=0A66C2" /></a>
+<!-- EMAIL: replace YOUR_EMAIL_HERE, then delete this comment's start/end markers to enable
+<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&color=00FF41" /></a>
+-->
+<!-- RESUME: upload Krish_Patel_Resume.pdf to this repo, then delete this comment's start/end markers to enable
+<a href="./Krish_Patel_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-0D1117?style=for-the-badge&logo=readdotcv&logoColor=FF00E5&color=FF00E5" /></a>
+-->
+<a href="https://github.com/kripy17"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&color=00F0FF" /></a>
+<a href="https://tryhackme.com/p/kri.py17"><img src="https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=00FF41&color=00FF41" /></a>
+
+<br/><br/>
+
+```bash
+┌──(kripy17㉿blue-team)-[~/]
+└─$ logout
+
+  session       : terminated
+  status        : 🟢 open to SOC Analyst opportunities
+
+$ echo "all threats investigated · no logs left unread · coffee consumed."
+$ exit 0   # GAME OVER? Nah. INSERT COIN TO CONTINUE 🪙
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer&text=INSERT%20COIN%20TO%20CONTINUE&fontSize=26&fontColor=00FF41&animation=twinkling&fontAlignY=68" width="100%"/>
+
+</div>
